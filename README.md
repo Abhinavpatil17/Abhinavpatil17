@@ -2,7 +2,8 @@
 <h3 align="center">🚀Data Whisperer & 🎨Design Ninja🥷 from 🌍India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavpatil17&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavpatil17" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=abhinavpatil17&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavpatil17" /> </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1616667695311?e=1730332800&v=beta&t=okl8dtKpu5J4BZYYz1ft3eDeqkvmUwRG4EHsqsWv0io"/>
 
