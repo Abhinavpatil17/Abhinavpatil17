@@ -2,7 +2,7 @@
 )
 <h1 align="center">Hi 👋, I'm Abhinav Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.linkedin.com/pulse/4-things-you-should-know-career-data-analytics-jonathan-osagie/)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavpatil17&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavpatil17" /> </p>
 
