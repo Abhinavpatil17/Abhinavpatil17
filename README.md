@@ -8,14 +8,23 @@
 <img align="right" alt="Coding" width="350" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1616667695311?e=1730332800&v=beta&t=okl8dtKpu5J4BZYYz1ft3eDeqkvmUwRG4EHsqsWv0io"/>
 
 - 🔭 I'm currently working on: **📊 PowerBI Dashboards & 🤖 Gemini AI Models**
+
 - 👯 I'm looking to collaborate on: **🌐 Data-Driven Web Projects**
+
 - 🤝 I'm looking for help with: **🧠 Advanced Machine Learning Techniques**
+
 - 🌱 I'm currently learning: **🐍 Python for AI & 📈 Data Analysis**
+
 - 💬 Ask me about: **📊 Data Visualization & 🎨 Graphic Design**
+
 - 📫 How to reach me: **📧 abhinavpatil80124@gmail.com**
+
 - 👨‍💻 All of my projects are available at: **🚧 [Portfolio under construction]**
+
 - 📝 I regularly write articles on: **📊 Data Analysis Insights**
+
 - 📄 Know about my experiences: **💼 Web Dev & 🎨 Design Internships**
+
 - ⚡ Fun fact: **🎭 I juggle data and design with equal passion!**
 
 <h3 align="left">Connect with me:</h3>
