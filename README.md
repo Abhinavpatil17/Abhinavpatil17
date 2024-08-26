@@ -6,11 +6,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavpatil17&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavpatil17" /> </p>
 
-- 🌱 I’m currently learning **Power BI**
-
-- 💬 Ask me about **Data Analysis || Graphic Designing || Web Development**
-
-- 📫 How to reach me **abhinavpatil80124@gmail.com**
+- 🔭 I'm currently working on: **📊 PowerBI Dashboards & 🤖 Gemini AI Models**
+- 👯 I'm looking to collaborate on: **🌐 Data-Driven Web Projects**
+- 🤝 I'm looking for help with: **🧠 Advanced Machine Learning Techniques**
+- 🌱 I'm currently learning: **🐍 Python for AI & 📈 Data Analysis**
+- 💬 Ask me about: **📊 Data Visualization & 🎨 Graphic Design**
+- 📫 How to reach me: **📧 abhinavpatil80124@gmail.com**
+- 👨‍💻 All of my projects are available at: **🚧 [Portfolio under construction]**
+- 📝 I regularly write articles on: **📊 Data Analysis Insights**
+- 📄 Know about my experiences: **💼 Web Dev & 🎨 Design Internships**
+- ⚡ Fun fact: **🎭 I juggle data and design with equal passion!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
